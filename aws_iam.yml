@@ -12,7 +12,7 @@
 
   vars:
     sidpasswd: "{{ password }}"
-    sidname: "{{ name }}
+    sidname: "{{ name }}"
     
   gather_facts: False
   tasks:
